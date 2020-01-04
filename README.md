@@ -4,5 +4,4 @@
 
 # how to run on VSCode
 
-CompileRun機能を使うと便利
-Ctrl + R
+[CompileRun](https://marketplace.visualstudio.com/items?itemName=danielpinto8zz6.c-cpp-compile-run)機能を使うと便利
