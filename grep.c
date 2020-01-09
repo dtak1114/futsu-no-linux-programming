@@ -14,7 +14,7 @@ int main(int argc, char const *argv[])
 {
     /*
     argv[1] pattern
-    stdin file
+    [stdin file... ]
     */
     regex_t pat;
     int err;
